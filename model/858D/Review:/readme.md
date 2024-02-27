@@ -1,1 +1,2 @@
 - [Can we REBALL a BGA / GPU with a cheap hot air station 858D?](https://youtu.be/LNlN0fHK16s)
+- [EEVblog #167 - Atten 858D Hot Air Rework Review](https://youtu.be/vva2t21sOAs)
