@@ -1,3 +1,5 @@
+note: **Some of these are version II!**
+
 # Ali Express
 sch: https://www.aliexpress.us/w/wholesale-959D.html?spm=a2g0o.home.search.0
 
