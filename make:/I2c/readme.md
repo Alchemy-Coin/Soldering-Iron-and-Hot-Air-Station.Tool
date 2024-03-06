@@ -1,0 +1,1 @@
+- [Soldering Station JBC or I2c. Is it any good. 7 Different tips and 3 Handles](https://youtu.be/I_yHmToH0c4)
