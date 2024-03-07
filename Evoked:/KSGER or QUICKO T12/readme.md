@@ -7,3 +7,6 @@
 
 # Modification
 - [KSGER T12 Mod To Improve Safety That You Can Do - It's Fun!](https://youtu.be/9BnxiF-gQwQ)
+
+## Firmware
+- [SDG #220 T12 KSGER and QUICKO STM32 Station with Custom Firmware](https://youtu.be/x9ohNL2J2lU)
