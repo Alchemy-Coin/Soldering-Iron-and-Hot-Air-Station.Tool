@@ -1,0 +1,1 @@
+- [Is the Aixun T3A a good T245 soldering station?](https://youtu.be/B7jLpHgR7fI)
