@@ -3,7 +3,9 @@ Home: https://www.youtube.com/@sdgelectronics
 # Playlist:
 - [Ultimate SMD Hot Air Station Comparison](https://www.youtube.com/playlist?list=PLZzwMlLVLdOCgT7rYau-CqcDyeZ3Rn5qV)
 - [The Best Soldering Iron Comparison](https://www.youtube.com/playlist?list=PLZzwMlLVLdOBBz8pwjt9CJhEJFYVfHSH2)
-- 
+
+# Evoked:
+- [SDG #072 Best Low Cost Soldering Station - QUICKO / KSGER T12 STM32 907](https://youtu.be/AMvZfOWkApw)
 
 # index:
 - [SDG #319 AiXun T320 200W JBC Style Soldering Station](https://youtu.be/-ug7rLdOWto)
