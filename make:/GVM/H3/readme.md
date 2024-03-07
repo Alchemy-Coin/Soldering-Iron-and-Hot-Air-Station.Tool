@@ -1,0 +1,2 @@
+# Output power: 40 Watts! Tested
+- [SDG #331 GVM H3 - Why did we not get 80W output power?](https://youtu.be/u3Kb3ZcwV-k)
