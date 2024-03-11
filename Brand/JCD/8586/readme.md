@@ -1,3 +1,6 @@
+# Review:
+https://www.youtube.com/results?search_query=JCD+8586
+
 # Evoked!:
 43.40
 - [JCD 8586 2-in-1 Welding Station Adjustable Temperature Hot Air Gun Soldering Iron Mobile Phone Repair BGA Welding Repair Tool](https://www.aliexpress.us/item/3256806441767425.html)
