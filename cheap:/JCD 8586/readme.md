@@ -1,1 +1,1 @@
-- 48.74 With extra Nozzels https://www.aliexpress.us/item/3256806047256111.html
+- 42.89 Basic; 48.74 With extra Nozzels https://www.aliexpress.us/item/3256806047256111.html
