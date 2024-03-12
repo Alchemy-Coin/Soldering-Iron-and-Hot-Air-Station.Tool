@@ -1,6 +1,8 @@
 # Review:
 sch: https://www.youtube.com/results?search_query=JCD+8586
 
+- [BEST HOT AIR STATION - Budget MicroSoldering](https://youtu.be/66W8VtceRZc)
+- [8586 Soldering Station Unboxing and Test || SMD BGA Rework Hot Air Blower station](https://youtu.be/108GThzC_ro)
 - [Sumsour (Atten Clone) 8586 Solder and Rework Station](https://youtu.be/7E5ZXvsCvVg)
 
 # Evoked!:
