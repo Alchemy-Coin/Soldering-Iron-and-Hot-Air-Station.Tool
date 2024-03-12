@@ -13,6 +13,11 @@ sch: https://www.youtube.com/results?search_query=JCD+8586
 - [JCD 8586 Soldering Station 2 In 1 Digital ESD Hot Air Blower Heat Gun Welding Solder Iron SMD Desoldering Rework Station Tools](https://www.aliexpress.us/item/3256806240950143.html)
 
 # index:
+- https://www.aliexpress.us/item/3256806441767425.html
+- https://www.aliexpress.us/item/3256806040223221.html
+- https://www.aliexpress.us/item/3256806119251521.html
+- 
+
 42.83
 - https://www.aliexpress.us/item/3256806284366614.html
 
