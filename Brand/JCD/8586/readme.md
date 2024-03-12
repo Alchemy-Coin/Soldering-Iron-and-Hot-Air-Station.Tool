@@ -17,6 +17,14 @@ sch: https://www.youtube.com/results?search_query=JCD+8586
 - https://www.aliexpress.us/item/3256806040223221.html
 - https://www.aliexpress.us/item/3256806119251521.html
 - https://www.aliexpress.us/item/3256806284366614.html
+- https://www.aliexpress.us/item/3256806047256111.html
+- https://www.aliexpress.us/item/2251832642803534.html
+- https://www.aliexpress.us/item/2251832856213815.html
+- https://www.aliexpress.us/item/3256805970475587.html
+- https://www.aliexpress.us/item/3256804518124307.html
+
+# Clone: Yarboly
+- https://www.aliexpress.us/item/3256803199058598.html
 
 42.83
 - https://www.aliexpress.us/item/3256806284366614.html
