@@ -1,5 +1,7 @@
 # Review:
-https://www.youtube.com/results?search_query=JCD+8586
+sch: https://www.youtube.com/results?search_query=JCD+8586
+
+- [Sumsour (Atten Clone) 8586 Solder and Rework Station](https://youtu.be/7E5ZXvsCvVg)
 
 # Evoked!:
 44.39 With Tips & Nozzels
